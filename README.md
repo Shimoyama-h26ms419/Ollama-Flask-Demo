@@ -26,7 +26,7 @@ git clone https://github.com/Shimoyama-h26ms419/Ollama-Flask-Demo.git
 ### 2.3 venv の作成
 - プロジェクトに移動します。
 ```
-cd ./Ollama-Demo-Flask
+cd ./Ollama-Flask-Demo
 ```
 
 - 以下のコマンドによりプロジェクトに venv を作成します。
