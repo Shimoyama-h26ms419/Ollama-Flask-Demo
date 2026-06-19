@@ -34,6 +34,18 @@ cd ./Ollama-Flask-Demo
 python -m venv ./.venv
 ```
 
+- venv を有効にします。
+
+#### Windows
+```
+./.venv/Scripts/activate
+```
+
+#### Linux
+```
+./.venv/bin/activate
+```
+
 ### 2.4 必要ライブラリのインストール
 - `flask` と `requests` をインストールします。
 ```
