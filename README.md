@@ -43,7 +43,7 @@ python -m venv ./.venv
 
 #### Linux
 ```
-./.venv/bin/activate
+source ./.venv/bin/activate
 ```
 
 ### 2.4 必要ライブラリのインストール
